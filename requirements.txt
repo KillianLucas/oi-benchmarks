@@ -2,3 +2,4 @@ datasets
 jsonschema
 open-interpreter
 e2b
+fsspec
